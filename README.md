@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harduletzu
+- 👋 Hi, I’m Alex!
 - 👀 I’m interested in Javascript and HTML/CSS
 - 🌱 I’m currently learning Front-End Coding
 - 💞️ I’m looking to collaborate on any projects
